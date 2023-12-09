@@ -1,6 +1,6 @@
 {
   "origins": [
     "https://ghostfam.com",
-    "https://tailresources.com"
+    "http://localhost:2368"
   ],
 }
